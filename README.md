@@ -326,4 +326,4 @@ https://api.btstu.cn/sjbz/?lx=dongman
 
 # 四、作者版权
 
-作者的爱情小站：love.cullwenproj.com:1314
+作者的爱情小站：http://love.cullwenproj.com:1314

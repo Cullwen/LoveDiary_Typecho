@@ -326,8 +326,4 @@ https://api.btstu.cn/sjbz/?lx=dongman
 
 # 四、作者版权
 
-作者的爱情小站：https://love.siriling.com:1314
-
-项目展示：https://gitee.com/siriling/loveStation-show
-
-源码仓库：https://gitee.com/siriling/loveStation
+作者的爱情小站：https://love.cullwenproj.com:1314
